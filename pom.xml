@@ -32,11 +32,7 @@
         <version>5.8.0</version>
     </dependency>
 
-    <dependency>
-    	<groupId>IPV_Project</groupId>
-    	<artifactId>IPV_Project</artifactId>
-    	<version>0.0.1-SNAPSHOT</version>
-    </dependency>
+   
 </dependencies>
 
 <build>
